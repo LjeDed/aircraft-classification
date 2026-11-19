@@ -1,0 +1,31 @@
+﻿file,true_label,aircraft_model,source,note
+img_01.jpg,military,Lockheed C-130 Hercules,,транспортный (нетривиальный)
+img_02.jpg,military,Boeing C-17 Globemaster III,,тяжёлый транспортный (нетривиальный)
+img_03.jpg,military,Ил-76МД,,военно-транспортный (нетривиальный)
+img_04.jpg,military,Boeing E-3 Sentry,,ДРЛО на базе Boeing 707 (нетривиальный)
+img_05.jpg,military,Boeing KC-135 Stratotanker,,заправщик на базе Boeing 707 (нетривиальный)
+img_06.jpg,military,Airbus A330 MRTT,,заправщик на базе пассажирского A330 (нетривиальный)
+img_07.jpg,military,Boeing P-8 Poseidon,,патрульный на базе Boeing 737 (нетривиальный)
+img_08.jpg,military,Embraer C-390 Millennium,,военно-транспортный (нетривиальный)
+img_09.jpg,military,Ан-26,,проверить оператора и окраску (нетривиальный)
+img_10.jpg,military,Beechcraft T-6 Texan II,,учебно-тренировочный (нетривиальный)
+img_11.jpg,military,Aero L-39 Albatros,,учебно-боевой (нетривиальный)
+img_12.jpg,military,General Atomics MQ-9 Reaper,,беспилотник (нетривиальный)
+img_13.jpg,military,Northrop B-2 Spirit,,стратегический бомбардировщик
+img_14.jpg,military,Ту-95МС,,турбовинтовой бомбардировщик
+img_15.jpg,military,F-16 Fighting Falcon,,обычный истребитель (простой)
+img_16.jpg,civil,Gulfstream G650,,бизнес-джет (нетривиальный)
+img_17.jpg,civil,Pilatus PC-12,,малая турбовинтовая авиация (нетривиальный)
+img_18.jpg,civil,DHC-3 Otter,,гидросамолёт (нетривиальный)
+img_19.jpg,civil,Air Tractor AT-802,,сельхозавиация (нетривиальный)
+img_20.jpg,civil,Ил-76ТД,,гражданская ливрея (нетривиальный)
+img_21.jpg,civil,Boeing 747-400F,,грузовой гигант
+img_22.jpg,civil,Airbus Beluga,,грузовой с необычным фюзеляжем (нетривиальный)
+img_23.jpg,civil,ATR 72,,региональный турбовинтовой
+img_24.jpg,civil,Extra 300,,спортивно-пилотажный (нетривиальный)
+img_25.jpg,civil,Canadair CL-415,,пожарная амфибия (нетривиальный)
+img_26.jpg,civil,Airbus A320,,обычный пассажирский (простой)
+img_27.jpg,civil,Airbus A380,,очень большой но гражданский
+img_28.jpg,civil,Ан-2,,биплан (нетривиальный)
+img_29.jpg,civil,Cessna 172,,малая авиация (нетривиальный)
+img_30.jpg,civil,Boeing 737-800,,обычный пассажирский (простой)
