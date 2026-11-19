@@ -1,0 +1,10 @@
+# Основные библиотеки, используемые в ноутбуке
+torch
+transformers
+accelerate
+num2words
+pandas
+numpy
+matplotlib
+Pillow
+scikit-learn
